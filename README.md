@@ -26,6 +26,10 @@
 
 O clone da aplicação do twitter foi apresentado no **UI Clone** no canal do youtube da [Rocketseat](rc).
 
+<a href="https://uiclonetwitter.netlify.app/">
+  Link do clone
+</a>
+
 ---
 
 ## 🛠 Tecnologia
